@@ -1,0 +1,9 @@
+rootProject.name = 'tdd'
+include 'ch2-frameworks'
+include 'ch3-red-green-refactor'
+include 'ch4-ship'
+include 'ch5-connect4-test-last'
+include 'ch5-connect4-with-tdd'
+include 'Spock'
+include 'Spock:ch1-up_run'
+
