@@ -28,4 +28,9 @@ public class User {
   public boolean follows(User other) {
     return following.contains(other);
   }
+
+  @Override
+  public String toString() {
+    return "User{" + name + '}';
+  }
 }
